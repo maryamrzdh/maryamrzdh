@@ -1,4 +1,4 @@
-![banner](https://miro.medium.com/max/1400/1*99YiKjwB2TliKVA-yGogNQ.png)
+
 <details>
   <summary>GitHub Stats</summary>
   <img align="left" alt="Maryam Memarzadeh GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maryamrzdh&show_icons=true&hide_border=true" />
