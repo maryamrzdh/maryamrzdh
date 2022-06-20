@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/mmemarzadeh94" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="9023032" height="30" width="40" /></a>
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="9023032" /></a>
  </a>
   
   <a href="https://stackoverflow.com/users/10373251/maryam-memarzadeh" target="blank">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Android-icon.png" alt="android" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Android-icon.png" alt="android" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40" />
 </p>
 
