@@ -2,12 +2,11 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/mmemarzadeh94" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="9023032" height="30" width="40" /></a>
  </a>
   
   <a href="https://stackoverflow.com/users/10373251/maryam-memarzadeh" target="blank">
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
- </a>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9023032" height="30" width="40" /></a>
 </p>
 
 <p align="center"> 
