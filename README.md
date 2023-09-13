@@ -21,7 +21,6 @@
 </p>
 
 
-- 🔭 I’m currently working in [ Saderat Bank](https://www.stsepehr.ir)
 - 👯 I’m looking to collaborate on android Projects
 - 📫 How to reach me **maryamemarzadeh72@gmail.com**
 
